@@ -1,0 +1,26 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchengzhang966/graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yuchengzhang966/graph/issues"
+  },
+  "homepage": "https://github.com/yuchengzhang966/graph#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "ethers": "^6.15.0"
+  }
+}
