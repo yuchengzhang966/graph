@@ -1,0 +1,1840 @@
+{
+  "data": {
+    "emodeCategories": [
+      {
+        "assets": [
+          {
+            "asset": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "borrowable": false,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca01"
+          },
+          {
+            "asset": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+            "borrowable": false,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b1"
+          },
+          {
+            "asset": "0xae78736cd615f374d3085123a210448e74fc6393",
+            "borrowable": false,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xae78736cd615f374d3085123a210448e74fc63931"
+          },
+          {
+            "asset": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+            "borrowable": false,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbe9895146f7af43049ca1c1ae358b0541ea497041"
+          },
+          {
+            "asset": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "borrowable": true,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc21"
+          },
+          {
+            "asset": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+            "borrowable": false,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee1"
+          },
+          {
+            "asset": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+            "borrowable": false,
+            "category": {
+              "id": "1",
+              "label": "ETH correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e381"
+          }
+        ],
+        "id": "1",
+        "label": "ETH correlated",
+        "liquidationBonus": "10100",
+        "liquidationThreshold": "9500",
+        "ltv": "9300",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": false,
+            "category": {
+              "id": "10",
+              "label": "PT-USDe Stablecoins July 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b310"
+          },
+          {
+            "asset": "0x917459337caac939d41d7493b3999f571d20d667",
+            "borrowable": false,
+            "category": {
+              "id": "10",
+              "label": "PT-USDe Stablecoins July 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x917459337caac939d41d7493b3999f571d20d66710"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "10",
+              "label": "PT-USDe Stablecoins July 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4810"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "10",
+              "label": "PT-USDe Stablecoins July 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec710"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "10",
+              "label": "PT-USDe Stablecoins July 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f10"
+          }
+        ],
+        "id": "10",
+        "label": "PT-USDe Stablecoins July 2025",
+        "liquidationBonus": "10210",
+        "liquidationThreshold": "9300",
+        "ltv": "9100",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": false,
+            "category": {
+              "id": "11",
+              "label": "USDe Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b311"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "11",
+              "label": "USDe Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4811"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "11",
+              "label": "USDe Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec711"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "11",
+              "label": "USDe Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f11"
+          }
+        ],
+        "id": "11",
+        "label": "USDe Stablecoin",
+        "liquidationBonus": "10200",
+        "liquidationThreshold": "9300",
+        "ltv": "9000",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "12",
+              "label": "PT-USDe USDe July 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b312"
+          },
+          {
+            "asset": "0x917459337caac939d41d7493b3999f571d20d667",
+            "borrowable": false,
+            "category": {
+              "id": "12",
+              "label": "PT-USDe USDe July 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x917459337caac939d41d7493b3999f571d20d66712"
+          }
+        ],
+        "id": "12",
+        "label": "PT-USDe USDe July 2025",
+        "liquidationBonus": "10110",
+        "liquidationThreshold": "9600",
+        "ltv": "9400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
+            "borrowable": false,
+            "category": {
+              "id": "13",
+              "label": "PT-eUSDe Stablecoins August 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x14bdc3a3ae09f5518b923b69489cbcafb238e61713"
+          },
+          {
+            "asset": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f",
+            "borrowable": false,
+            "category": {
+              "id": "13",
+              "label": "PT-eUSDe Stablecoins August 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f13"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "13",
+              "label": "PT-eUSDe Stablecoins August 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4813"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "13",
+              "label": "PT-eUSDe Stablecoins August 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec713"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "13",
+              "label": "PT-eUSDe Stablecoins August 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f13"
+          }
+        ],
+        "id": "13",
+        "label": "PT-eUSDe Stablecoins August 2025",
+        "liquidationBonus": "10200",
+        "liquidationThreshold": "9300",
+        "ltv": "9100",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
+            "borrowable": false,
+            "category": {
+              "id": "14",
+              "label": "PT-eUSDe USDe August 2025",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x14bdc3a3ae09f5518b923b69489cbcafb238e61714"
+          },
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "14",
+              "label": "PT-eUSDe USDe August 2025",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b314"
+          },
+          {
+            "asset": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f",
+            "borrowable": false,
+            "category": {
+              "id": "14",
+              "label": "PT-eUSDe USDe August 2025",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f14"
+          }
+        ],
+        "id": "14",
+        "label": "PT-eUSDe USDe August 2025",
+        "liquidationBonus": "10100",
+        "liquidationThreshold": "9600",
+        "ltv": "9400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f",
+            "borrowable": false,
+            "category": {
+              "id": "15",
+              "label": "eUSDe_Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f15"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "15",
+              "label": "eUSDe_Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4815"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "15",
+              "label": "eUSDe_Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec715"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "15",
+              "label": "eUSDe_Stablecoin",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f15"
+          }
+        ],
+        "id": "15",
+        "label": "eUSDe_Stablecoin",
+        "liquidationBonus": "10200",
+        "liquidationThreshold": "9300",
+        "ltv": "9000",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "borrowable": true,
+            "category": {
+              "id": "16",
+              "label": "FBTC/WBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c59916"
+          },
+          {
+            "asset": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+            "borrowable": false,
+            "category": {
+              "id": "16",
+              "label": "FBTC/WBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xc96de26018a54d51c097160568752c4e3bd6c36416"
+          }
+        ],
+        "id": "16",
+        "label": "FBTC/WBTC",
+        "liquidationBonus": "10300",
+        "liquidationThreshold": "8600",
+        "ltv": "8400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "borrowable": false,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x3b3fb9c57858ef816833dc91565efcd85d96f63417"
+          },
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b317"
+          },
+          {
+            "asset": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+            "borrowable": false,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9d39a5de30e57443bff2a8307a4256c8797a349717"
+          },
+          {
+            "asset": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "borrowable": false,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9f56094c450763769ba0ea9fe2876070c0fd5f7717"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4817"
+          },
+          {
+            "asset": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+            "borrowable": true,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xc139190f447e929f090edeb554d95abb8b18ac1c17"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec717"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "17",
+              "label": "PT-sUSDe Stablecoins September 2025",
+              "liquidationBonus": "10310",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f17"
+          }
+        ],
+        "id": "17",
+        "label": "PT-sUSDe Stablecoins September 2025",
+        "liquidationBonus": "10310",
+        "liquidationThreshold": "9200",
+        "ltv": "9000",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "18",
+              "label": "PT-sUSDe USDe September 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9400",
+              "ltv": "9200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b318"
+          },
+          {
+            "asset": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "borrowable": false,
+            "category": {
+              "id": "18",
+              "label": "PT-sUSDe USDe September 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9400",
+              "ltv": "9200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9f56094c450763769ba0ea9fe2876070c0fd5f7718"
+          }
+        ],
+        "id": "18",
+        "label": "PT-sUSDe USDe September 2025",
+        "liquidationBonus": "10110",
+        "liquidationThreshold": "9400",
+        "ltv": "9200",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
+            "borrowable": false,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x14bdc3a3ae09f5518b923b69489cbcafb238e61719"
+          },
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b319"
+          },
+          {
+            "asset": "0x917459337caac939d41d7493b3999f571d20d667",
+            "borrowable": false,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x917459337caac939d41d7493b3999f571d20d66719"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4819"
+          },
+          {
+            "asset": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "borrowable": false,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a19"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec719"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "19",
+              "label": "PT-USDe Stablecoins September 2025",
+              "liquidationBonus": "10200",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f19"
+          }
+        ],
+        "id": "19",
+        "label": "PT-USDe Stablecoins September 2025",
+        "liquidationBonus": "10200",
+        "liquidationThreshold": "9300",
+        "ltv": "9100",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": false,
+            "category": {
+              "id": "2",
+              "label": "sUSDe Stablecoins",
+              "liquidationBonus": "10400",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b32"
+          },
+          {
+            "asset": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+            "borrowable": false,
+            "category": {
+              "id": "2",
+              "label": "sUSDe Stablecoins",
+              "liquidationBonus": "10400",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9d39a5de30e57443bff2a8307a4256c8797a34972"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "2",
+              "label": "sUSDe Stablecoins",
+              "liquidationBonus": "10400",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb482"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "2",
+              "label": "sUSDe Stablecoins",
+              "liquidationBonus": "10400",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec72"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "2",
+              "label": "sUSDe Stablecoins",
+              "liquidationBonus": "10400",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f2"
+          }
+        ],
+        "id": "2",
+        "label": "sUSDe Stablecoins",
+        "liquidationBonus": "10400",
+        "liquidationThreshold": "9200",
+        "ltv": "9000",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
+            "borrowable": false,
+            "category": {
+              "id": "20",
+              "label": "PT-USDe USDe September 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x14bdc3a3ae09f5518b923b69489cbcafb238e61720"
+          },
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "20",
+              "label": "PT-USDe USDe September 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b320"
+          },
+          {
+            "asset": "0x917459337caac939d41d7493b3999f571d20d667",
+            "borrowable": false,
+            "category": {
+              "id": "20",
+              "label": "PT-USDe USDe September 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x917459337caac939d41d7493b3999f571d20d66720"
+          },
+          {
+            "asset": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "borrowable": false,
+            "category": {
+              "id": "20",
+              "label": "PT-USDe USDe September 2025",
+              "liquidationBonus": "10110",
+              "liquidationThreshold": "9600",
+              "ltv": "9400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a20"
+          }
+        ],
+        "id": "20",
+        "label": "PT-USDe USDe September 2025",
+        "liquidationBonus": "10110",
+        "liquidationThreshold": "9600",
+        "ltv": "9400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "21",
+              "label": "tETH/Stablecoins",
+              "liquidationBonus": "10750",
+              "liquidationThreshold": "7500",
+              "ltv": "7200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4821"
+          },
+          {
+            "asset": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+            "borrowable": false,
+            "category": {
+              "id": "21",
+              "label": "tETH/Stablecoins",
+              "liquidationBonus": "10750",
+              "liquidationThreshold": "7500",
+              "ltv": "7200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed821"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "21",
+              "label": "tETH/Stablecoins",
+              "liquidationBonus": "10750",
+              "liquidationThreshold": "7500",
+              "ltv": "7200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec721"
+          }
+        ],
+        "id": "21",
+        "label": "tETH/Stablecoins",
+        "liquidationBonus": "10750",
+        "liquidationThreshold": "7500",
+        "ltv": "7200",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "borrowable": true,
+            "category": {
+              "id": "22",
+              "label": "ezETH/wstETH",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca022"
+          },
+          {
+            "asset": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+            "borrowable": false,
+            "category": {
+              "id": "22",
+              "label": "ezETH/wstETH",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbf5495efe5db9ce00f80364c8b423567e58d211022"
+          }
+        ],
+        "id": "22",
+        "label": "ezETH/wstETH",
+        "liquidationBonus": "10100",
+        "liquidationThreshold": "9500",
+        "ltv": "9300",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "23",
+              "label": "ezETH/Stablecoins",
+              "liquidationBonus": "10750",
+              "liquidationThreshold": "7800",
+              "ltv": "7500",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4823"
+          },
+          {
+            "asset": "0xbf5495efe5db9ce00f80364c8b423567e58d2110",
+            "borrowable": false,
+            "category": {
+              "id": "23",
+              "label": "ezETH/Stablecoins",
+              "liquidationBonus": "10750",
+              "liquidationThreshold": "7800",
+              "ltv": "7500",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbf5495efe5db9ce00f80364c8b423567e58d211023"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "23",
+              "label": "ezETH/Stablecoins",
+              "liquidationBonus": "10750",
+              "liquidationThreshold": "7800",
+              "ltv": "7500",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec723"
+          }
+        ],
+        "id": "23",
+        "label": "ezETH/Stablecoins",
+        "liquidationBonus": "10750",
+        "liquidationThreshold": "7800",
+        "ltv": "7500",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b324"
+          },
+          {
+            "asset": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+            "borrowable": false,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9d39a5de30e57443bff2a8307a4256c8797a349724"
+          },
+          {
+            "asset": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "borrowable": false,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9f56094c450763769ba0ea9fe2876070c0fd5f7724"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4824"
+          },
+          {
+            "asset": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+            "borrowable": true,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xc139190f447e929f090edeb554d95abb8b18ac1c24"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec724"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f24"
+          },
+          {
+            "asset": "0xe6a934089bbee34f832060ce98848359883749b3",
+            "borrowable": false,
+            "category": {
+              "id": "24",
+              "label": "PT-sUSDe Stablecoins Nov 2025",
+              "liquidationBonus": "10410",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xe6a934089bbee34f832060ce98848359883749b324"
+          }
+        ],
+        "id": "24",
+        "label": "PT-sUSDe Stablecoins Nov 2025",
+        "liquidationBonus": "10410",
+        "liquidationThreshold": "9200",
+        "ltv": "9000",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "25",
+              "label": "PT-sUSDe USDe Nov 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9400",
+              "ltv": "9200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b325"
+          },
+          {
+            "asset": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+            "borrowable": false,
+            "category": {
+              "id": "25",
+              "label": "PT-sUSDe USDe Nov 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9400",
+              "ltv": "9200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9f56094c450763769ba0ea9fe2876070c0fd5f7725"
+          },
+          {
+            "asset": "0xe6a934089bbee34f832060ce98848359883749b3",
+            "borrowable": false,
+            "category": {
+              "id": "25",
+              "label": "PT-sUSDe USDe Nov 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9400",
+              "ltv": "9200",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xe6a934089bbee34f832060ce98848359883749b325"
+          }
+        ],
+        "id": "25",
+        "label": "PT-sUSDe USDe Nov 2025",
+        "liquidationBonus": "10210",
+        "liquidationThreshold": "9400",
+        "ltv": "9200",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "borrowable": true,
+            "category": {
+              "id": "26",
+              "label": "weETH/wstETH ETH Correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca026"
+          },
+          {
+            "asset": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "borrowable": true,
+            "category": {
+              "id": "26",
+              "label": "weETH/wstETH ETH Correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc226"
+          },
+          {
+            "asset": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+            "borrowable": false,
+            "category": {
+              "id": "26",
+              "label": "weETH/wstETH ETH Correlated",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee26"
+          }
+        ],
+        "id": "26",
+        "label": "weETH/wstETH ETH Correlated",
+        "liquidationBonus": "10100",
+        "liquidationThreshold": "9500",
+        "ltv": "9300",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b327"
+          },
+          {
+            "asset": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
+            "borrowable": false,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x62c6e813b9589c3631ba0cdb013acdb8544038b727"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb4827"
+          },
+          {
+            "asset": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "borrowable": false,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a27"
+          },
+          {
+            "asset": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+            "borrowable": true,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xc139190f447e929f090edeb554d95abb8b18ac1c27"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec727"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "27",
+              "label": "PT-USDe Stablecoins Nov 2025",
+              "liquidationBonus": "10330",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f27"
+          }
+        ],
+        "id": "27",
+        "label": "PT-USDe Stablecoins Nov 2025",
+        "liquidationBonus": "10330",
+        "liquidationThreshold": "9300",
+        "ltv": "9100",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+            "borrowable": true,
+            "category": {
+              "id": "28",
+              "label": "PT-USDe USDe Nov 2025",
+              "liquidationBonus": "10230",
+              "liquidationThreshold": "9420",
+              "ltv": "9220",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x4c9edd5852cd905f086c759e8383e09bff1e68b328"
+          },
+          {
+            "asset": "0x62c6e813b9589c3631ba0cdb013acdb8544038b7",
+            "borrowable": false,
+            "category": {
+              "id": "28",
+              "label": "PT-USDe USDe Nov 2025",
+              "liquidationBonus": "10230",
+              "liquidationThreshold": "9420",
+              "ltv": "9220",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x62c6e813b9589c3631ba0cdb013acdb8544038b728"
+          },
+          {
+            "asset": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+            "borrowable": false,
+            "category": {
+              "id": "28",
+              "label": "PT-USDe USDe Nov 2025",
+              "liquidationBonus": "10230",
+              "liquidationThreshold": "9420",
+              "ltv": "9220",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a28"
+          }
+        ],
+        "id": "28",
+        "label": "PT-USDe USDe Nov 2025",
+        "liquidationBonus": "10230",
+        "liquidationThreshold": "9420",
+        "ltv": "9220",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+            "borrowable": true,
+            "category": {
+              "id": "3",
+              "label": "rsETH LST main",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca03"
+          },
+          {
+            "asset": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+            "borrowable": false,
+            "category": {
+              "id": "3",
+              "label": "rsETH LST main",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a73"
+          },
+          {
+            "asset": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+            "borrowable": true,
+            "category": {
+              "id": "3",
+              "label": "rsETH LST main",
+              "liquidationBonus": "10100",
+              "liquidationThreshold": "9500",
+              "ltv": "9300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b3"
+          }
+        ],
+        "id": "3",
+        "label": "rsETH LST main",
+        "liquidationBonus": "10100",
+        "liquidationThreshold": "9500",
+        "ltv": "9300",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "borrowable": true,
+            "category": {
+              "id": "4",
+              "label": "LBTC_WBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c5994"
+          },
+          {
+            "asset": "0x8236a87084f8b84306f72007f36f2618a5634494",
+            "borrowable": false,
+            "category": {
+              "id": "4",
+              "label": "LBTC_WBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x8236a87084f8b84306f72007f36f2618a56344944"
+          }
+        ],
+        "id": "4",
+        "label": "LBTC_WBTC",
+        "liquidationBonus": "10300",
+        "liquidationThreshold": "8600",
+        "ltv": "8400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x8236a87084f8b84306f72007f36f2618a5634494",
+            "borrowable": false,
+            "category": {
+              "id": "5",
+              "label": "LBTC_cbBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x8236a87084f8b84306f72007f36f2618a56344945"
+          },
+          {
+            "asset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "borrowable": true,
+            "category": {
+              "id": "5",
+              "label": "LBTC_cbBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf5"
+          }
+        ],
+        "id": "5",
+        "label": "LBTC_cbBTC",
+        "liquidationBonus": "10300",
+        "liquidationThreshold": "8600",
+        "ltv": "8400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+            "borrowable": true,
+            "category": {
+              "id": "6",
+              "label": "LBTC_tBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x18084fba666a33d37592fa2633fd49a74dd93a886"
+          },
+          {
+            "asset": "0x8236a87084f8b84306f72007f36f2618a5634494",
+            "borrowable": false,
+            "category": {
+              "id": "6",
+              "label": "LBTC_tBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8600",
+              "ltv": "8400",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x8236a87084f8b84306f72007f36f2618a56344946"
+          }
+        ],
+        "id": "6",
+        "label": "LBTC_tBTC",
+        "liquidationBonus": "10300",
+        "liquidationThreshold": "8600",
+        "ltv": "8400",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "borrowable": true,
+            "category": {
+              "id": "7",
+              "label": "eBTC/WBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8500",
+              "ltv": "8300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c5997"
+          },
+          {
+            "asset": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+            "borrowable": false,
+            "category": {
+              "id": "7",
+              "label": "eBTC/WBTC",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "8500",
+              "ltv": "8300",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x657e8c867d8b37dcc18fa4caead9c45eb088c6427"
+          }
+        ],
+        "id": "7",
+        "label": "eBTC/WBTC",
+        "liquidationBonus": "10300",
+        "liquidationThreshold": "8500",
+        "ltv": "8300",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x3b3fb9c57858ef816833dc91565efcd85d96f634",
+            "borrowable": false,
+            "category": {
+              "id": "8",
+              "label": "PT-sUSDe Stablecoins Jul 2025",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x3b3fb9c57858ef816833dc91565efcd85d96f6348"
+          },
+          {
+            "asset": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+            "borrowable": false,
+            "category": {
+              "id": "8",
+              "label": "PT-sUSDe Stablecoins Jul 2025",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x9d39a5de30e57443bff2a8307a4256c8797a34978"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "8",
+              "label": "PT-sUSDe Stablecoins Jul 2025",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb488"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "8",
+              "label": "PT-sUSDe Stablecoins Jul 2025",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec78"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "8",
+              "label": "PT-sUSDe Stablecoins Jul 2025",
+              "liquidationBonus": "10300",
+              "liquidationThreshold": "9200",
+              "ltv": "9000",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f8"
+          }
+        ],
+        "id": "8",
+        "label": "PT-sUSDe Stablecoins Jul 2025",
+        "liquidationBonus": "10300",
+        "liquidationThreshold": "9200",
+        "ltv": "9000",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "assets": [
+          {
+            "asset": "0x50d2c7992b802eef16c04feadab310f31866a545",
+            "borrowable": false,
+            "category": {
+              "id": "9",
+              "label": "PT-eUSDe Stablecoins May 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x50d2c7992b802eef16c04feadab310f31866a5459"
+          },
+          {
+            "asset": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f",
+            "borrowable": false,
+            "category": {
+              "id": "9",
+              "label": "PT-eUSDe Stablecoins May 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": true,
+            "id": "0x90d2af7d622ca3141efa4d8f1f24d86e5974cc8f9"
+          },
+          {
+            "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "borrowable": true,
+            "category": {
+              "id": "9",
+              "label": "PT-eUSDe Stablecoins May 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb489"
+          },
+          {
+            "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "borrowable": true,
+            "category": {
+              "id": "9",
+              "label": "PT-eUSDe Stablecoins May 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdac17f958d2ee523a2206206994597c13d831ec79"
+          },
+          {
+            "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+            "borrowable": true,
+            "category": {
+              "id": "9",
+              "label": "PT-eUSDe Stablecoins May 2025",
+              "liquidationBonus": "10210",
+              "liquidationThreshold": "9300",
+              "ltv": "9100",
+              "oracle": "0x0000000000000000000000000000000000000000"
+            },
+            "collateral": false,
+            "id": "0xdc035d45d973e3ec169d2276ddab16f1e407384f9"
+          }
+        ],
+        "id": "9",
+        "label": "PT-eUSDe Stablecoins May 2025",
+        "liquidationBonus": "10210",
+        "liquidationThreshold": "9300",
+        "ltv": "9100",
+        "oracle": "0x0000000000000000000000000000000000000000"
+      }
+    ]
+  }
+}
