@@ -1,0 +1,91 @@
+{
+  "data": {
+    "reserveConfigurationHistoryItems": [
+      {
+        "baseLTVasCollateral": "8050",
+        "borrowingEnabled": true,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0x06b1ec378618ea736a65395ea5cab69a2410493b",
+        "reserveLiquidationBonus": "10500",
+        "reserveLiquidationThreshold": "8300",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1706711927,
+        "usageAsCollateralEnabled": true
+      },
+      {
+        "baseLTVasCollateral": "7200",
+        "borrowingEnabled": false,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0x847a3364cc5fe389283bd821cfc8a477288d9e82",
+        "reserveLiquidationBonus": "10850",
+        "reserveLiquidationThreshold": "7500",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1722092795,
+        "usageAsCollateralEnabled": true
+      },
+      {
+        "baseLTVasCollateral": "8050",
+        "borrowingEnabled": true,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0xa901bf68bebde17ba382e499c3e9ebae649df276",
+        "reserveLiquidationBonus": "10500",
+        "reserveLiquidationThreshold": "8300",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1700121071,
+        "usageAsCollateralEnabled": true
+      },
+      {
+        "baseLTVasCollateral": "8050",
+        "borrowingEnabled": true,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0x42ec99a020b78c449d17d93bc4c89e0189b5811d",
+        "reserveLiquidationBonus": "10500",
+        "reserveLiquidationThreshold": "8300",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1719153167,
+        "usageAsCollateralEnabled": true
+      },
+      {
+        "baseLTVasCollateral": "8000",
+        "borrowingEnabled": true,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0x53f57eaad604307889d87b747fc67ea9de430b01",
+        "reserveLiquidationBonus": "10500",
+        "reserveLiquidationThreshold": "8250",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1674806111,
+        "usageAsCollateralEnabled": true
+      },
+      {
+        "baseLTVasCollateral": "6900",
+        "borrowingEnabled": true,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0x7b8fa4540246554e77fcff140f9114de00f8bb8d",
+        "reserveLiquidationBonus": "10700",
+        "reserveLiquidationThreshold": "8000",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1687226375,
+        "usageAsCollateralEnabled": true
+      },
+      {
+        "baseLTVasCollateral": "7500",
+        "borrowingEnabled": true,
+        "isActive": true,
+        "isFrozen": false,
+        "reserveInterestRateStrategy": "0x9ec6f08190dea04a54f8afc53db96134e5e3fdfb",
+        "reserveLiquidationBonus": "10750",
+        "reserveLiquidationThreshold": "7800",
+        "stableBorrowRateEnabled": false,
+        "timestamp": 1728391943,
+        "usageAsCollateralEnabled": true
+      }
+    ],
+    "reserveParamsHistoryItems": []
+  }
+}

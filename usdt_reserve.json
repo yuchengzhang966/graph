@@ -1,0 +1,347 @@
+{
+  "data": {
+    "reserves": [
+      {
+        "availableLiquidity": "1425014524412530",
+        "baseLTVasCollateral": "7500",
+        "baseVariableBorrowRate": "0",
+        "borrowHistory": [
+          {
+            "amount": "35000000000",
+            "borrowRate": "54461172498600895859132248",
+            "borrowRateMode": 2,
+            "id": "23588306:258:0x0a61cf3509d0027f67035b94010a7f6267e338883f5ce5fd5b9634926506edd1:470:4",
+            "timestamp": 1760594411,
+            "txHash": "0x0a61cf3509d0027f67035b94010a7f6267e338883f5ce5fd5b9634926506edd1",
+            "user": {
+              "id": "0x92a9db347130e0495bcb8b948dbe66f553592110"
+            }
+          },
+          {
+            "amount": "17751",
+            "borrowRate": "54464462683775196891783184",
+            "borrowRateMode": 2,
+            "id": "23588257:44:0x4b7f103c089ff9bb3f10af8bff7f46d3c8dd43f3aa5e3ad0c18974e8b88466c4:98:25",
+            "timestamp": 1760593799,
+            "txHash": "0x4b7f103c089ff9bb3f10af8bff7f46d3c8dd43f3aa5e3ad0c18974e8b88466c4",
+            "user": {
+              "id": "0xa118b48224c34ec5638c96de46b75aab0aaed0a0"
+            }
+          },
+          {
+            "amount": "35000000000",
+            "borrowRate": "54460451407333037603596087",
+            "borrowRateMode": 2,
+            "id": "23588184:24:0xf59a2cfab7623a0786046b8674852e95304732595c24171a06bd1712263a5cfb:327:5",
+            "timestamp": 1760592923,
+            "txHash": "0xf59a2cfab7623a0786046b8674852e95304732595c24171a06bd1712263a5cfb",
+            "user": {
+              "id": "0xe0440cc2cdc7d5b5bc99cf110ed0cbeeffb04513"
+            }
+          },
+          {
+            "amount": "523000000",
+            "borrowRate": "54452790861787247082858553",
+            "borrowRateMode": 2,
+            "id": "23588152:9:0xa9552b44700b045d9b2e6868857bb2ae7f4ded21ec43a189e8b54e496aaa7661:78:5",
+            "timestamp": 1760592539,
+            "txHash": "0xa9552b44700b045d9b2e6868857bb2ae7f4ded21ec43a189e8b54e496aaa7661",
+            "user": {
+              "id": "0xa19fea954dcfa48b7c02b0d8d561905e61e57b5c"
+            }
+          },
+          {
+            "amount": "4000000000",
+            "borrowRate": "54452779811813239561655778",
+            "borrowRateMode": 2,
+            "id": "23588132:23:0xc1592fc67d81020bd0ee96a51fd9709e8dc6a89de459e9d5568c665a50787679:75:4",
+            "timestamp": 1760592299,
+            "txHash": "0xc1592fc67d81020bd0ee96a51fd9709e8dc6a89de459e9d5568c665a50787679",
+            "user": {
+              "id": "0x3db51322331ca0ae0558eaf4ac97e2ecd3dcbabe"
+            }
+          }
+        ],
+        "borrowingEnabled": true,
+        "decimals": 6,
+        "flashLoanHistory": [
+          {
+            "amount": "17751",
+            "id": "23588257:44:0x4b7f103c089ff9bb3f10af8bff7f46d3c8dd43f3aa5e3ad0c18974e8b88466c4:99:26",
+            "target": "0xd7852e139a7097e119623de0751ae53a61efb442",
+            "timestamp": 1760593799,
+            "totalFee": "0"
+          },
+          {
+            "amount": "8000000000",
+            "id": "23587835:1:0xff2e89b097a35de21559570f4b17867b7562768c680e15deaffd9ee61e277da8:41:39",
+            "target": "0xadc0a53095a0af87f3aa29fe0715b5c28016364e",
+            "timestamp": 1760588723,
+            "totalFee": "4000000"
+          },
+          {
+            "amount": "999324517201",
+            "id": "23587652:70:0x5afb1729def3cd064390fe2eedfe94e8591f0a873d08953e449d79d79232bae8:213:70",
+            "target": "0x49d9409111a6363d82c4371ffa43faea660c917b",
+            "timestamp": 1760586527,
+            "totalFee": "0"
+          },
+          {
+            "amount": "14339035322",
+            "id": "23587604:100:0x9307d03c5dbc1f51231a5eafd89583ca0e84b496078204f2311017f01ff6c7d1:316:47",
+            "target": "0xadc0a53095a0af87f3aa29fe0715b5c28016364e",
+            "timestamp": 1760585939,
+            "totalFee": "7169518"
+          },
+          {
+            "amount": "32264116918",
+            "id": "23587594:179:0xfe3892b5f11549da3235a9727e2d45d7b14b53296bf3995004fbf5cf76ef3ad0:410:33",
+            "target": "0xd7852e139a7097e119623de0751ae53a61efb442",
+            "timestamp": 1760585819,
+            "totalFee": "0"
+          }
+        ],
+        "id": "0xdac17f958d2ee523a2206206994597c13d831ec70x2f39d218133afab8f2b819b1066c7e434ad94e9e",
+        "isActive": true,
+        "isDropped": false,
+        "isFrozen": false,
+        "isPaused": false,
+        "lastUpdateTimestamp": 1760594435,
+        "liquidationCallHistory": [
+          {
+            "action": "LiquidationCall",
+            "borrowAssetPriceUSD": "0",
+            "collateralAmount": "858478",
+            "collateralAssetPriceUSD": "1.00021227",
+            "id": "23581247:130:0xb4991167ebfb8ee472c27e041b02fd320de4029640a0a79bb0aa6250c567a073:265:15",
+            "liquidator": "0x84d05dc0a23b5456c11072afc48dc16199d64cc1",
+            "principalAmount": "825063082735784363",
+            "timestamp": 1760509031,
+            "txHash": "0xb4991167ebfb8ee472c27e041b02fd320de4029640a0a79bb0aa6250c567a073",
+            "user": {
+              "id": "0x4096b5a3efe78caef24bf0a6f5754b11dcb86ddc"
+            }
+          },
+          {
+            "action": "LiquidationCall",
+            "borrowAssetPriceUSD": "1.00021227",
+            "collateralAmount": "7227929",
+            "collateralAssetPriceUSD": "1.00021227",
+            "id": "23564710:27:0x1935987f82a80456e51bcffbd7492b0ad3d79bb150a220b46128226c0778e733:190:20",
+            "liquidator": "0x1f2f10d1c40777ae1da742455c65828ff36df387",
+            "principalAmount": "6946592",
+            "timestamp": 1760309123,
+            "txHash": "0x1935987f82a80456e51bcffbd7492b0ad3d79bb150a220b46128226c0778e733",
+            "user": {
+              "id": "0xf674db418511d722d68438543828a1b4683d11ec"
+            }
+          },
+          {
+            "action": "LiquidationCall",
+            "borrowAssetPriceUSD": "1.00021227",
+            "collateralAmount": "2972338323",
+            "collateralAssetPriceUSD": "1.00021227",
+            "id": "23549992:2:0x0626fd58b4b49669b454ec3a0b1dcba013801736da701715bad09bc00a3e77ab:310:292",
+            "liquidator": "0x00000000009e50a7ddb7a7b0e2ee6604fd120e49",
+            "principalAmount": "2856644232",
+            "timestamp": 1760131487,
+            "txHash": "0x0626fd58b4b49669b454ec3a0b1dcba013801736da701715bad09bc00a3e77ab",
+            "user": {
+              "id": "0x15391e14a74a808f5e7a2055e755bd7f3db97f40"
+            }
+          },
+          {
+            "action": "LiquidationCall",
+            "borrowAssetPriceUSD": "1.00021227",
+            "collateralAmount": "2329683802",
+            "collateralAssetPriceUSD": "1.00021227",
+            "id": "23549985:2:0x7e62d149557e0c208b2b2f3ca93ab8497963f245704c594fd1cfc42459601342:517:52",
+            "liquidator": "0x00000000009e50a7ddb7a7b0e2ee6604fd120e49",
+            "principalAmount": "2239004135",
+            "timestamp": 1760131403,
+            "txHash": "0x7e62d149557e0c208b2b2f3ca93ab8497963f245704c594fd1cfc42459601342",
+            "user": {
+              "id": "0x73323d56ad02e03f063ae21b4e4cbe161fa33fe2"
+            }
+          },
+          {
+            "action": "LiquidationCall",
+            "borrowAssetPriceUSD": "1.00021227",
+            "collateralAmount": "13130073056",
+            "collateralAssetPriceUSD": "1.00021227",
+            "id": "23549985:2:0x7e62d149557e0c208b2b2f3ca93ab8497963f245704c594fd1cfc42459601342:505:40",
+            "liquidator": "0x00000000009e50a7ddb7a7b0e2ee6604fd120e49",
+            "principalAmount": "12619003417",
+            "timestamp": 1760131403,
+            "txHash": "0x7e62d149557e0c208b2b2f3ca93ab8497963f245704c594fd1cfc42459601342",
+            "user": {
+              "id": "0xaf6a020e67de63c1de13b52f2ba7520fb6675355"
+            }
+          }
+        ],
+        "liquidityIndex": "1143093223356829791816726666",
+        "liquidityRate": "37782489394971194932889380",
+        "name": "Tether USD",
+        "optimalUtilisationRate": "920000000000000000000000000",
+        "price": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "priceHistory": [
+            {
+              "price": "100012000",
+              "timestamp": 1676296343
+            },
+            {
+              "price": "100051084",
+              "timestamp": 1676319431
+            },
+            {
+              "price": "100040000",
+              "timestamp": 1676405855
+            },
+            {
+              "price": "100023313",
+              "timestamp": 1676492291
+            },
+            {
+              "price": "100009000",
+              "timestamp": 1676578715
+            },
+            {
+              "price": "100000000",
+              "timestamp": 1676665127
+            },
+            {
+              "price": "100028481",
+              "timestamp": 1676751551
+            },
+            {
+              "price": "100028427",
+              "timestamp": 1676837987
+            },
+            {
+              "price": "100006480",
+              "timestamp": 1676924399
+            },
+            {
+              "price": "100012342",
+              "timestamp": 1677010823
+            }
+          ],
+          "priceInEth": "100021227"
+        },
+        "redeemUnderlyingHistory": [
+          {
+            "amount": "2241572724",
+            "id": "23588308:14:0x0a45fcad931016e5334cc9e76309db614a1758d791785c2998e88e5aced4d7c4:144:12",
+            "timestamp": 1760594435,
+            "txHash": "0x0a45fcad931016e5334cc9e76309db614a1758d791785c2998e88e5aced4d7c4",
+            "user": {
+              "id": "0x35bb522b102326ea3f1141661df4626c87000e3e"
+            }
+          },
+          {
+            "amount": "1000000000000",
+            "id": "23588301:22:0x5329b8242be90e3536f548bf5f1c234336521a6473e55916e5d9a647c44f404f:99:4",
+            "timestamp": 1760594351,
+            "txHash": "0x5329b8242be90e3536f548bf5f1c234336521a6473e55916e5d9a647c44f404f",
+            "user": {
+              "id": "0xe1639a0be6b04757905bfac84a4c9927169501c2"
+            }
+          },
+          {
+            "amount": "260170000",
+            "id": "23588289:298:0xcd1d5370e6779613ccf612b03a44fe471823f2756e81386cf5f318f9bfc8e601:606:4",
+            "timestamp": 1760594207,
+            "txHash": "0xcd1d5370e6779613ccf612b03a44fe471823f2756e81386cf5f318f9bfc8e601",
+            "user": {
+              "id": "0xb8c4b1ee8d17d0d5f784a10124c6ce343b76fd9f"
+            }
+          },
+          {
+            "amount": "21758664",
+            "id": "23588286:184:0xcf88fa3c1ed3f0cb030400afbef40d0222b5f074fbcf4b20f0dcea6873de60c7:956:4",
+            "timestamp": 1760594171,
+            "txHash": "0xcf88fa3c1ed3f0cb030400afbef40d0222b5f074fbcf4b20f0dcea6873de60c7",
+            "user": {
+              "id": "0x6e04e1a57906e1a1e5942a0f466d5677a7488968"
+            }
+          },
+          {
+            "amount": "56316603",
+            "id": "23588278:49:0x61024c127c99745a026bd5828356f05348dd335519c97d7f3ece8c32671a5737:150:5",
+            "timestamp": 1760594063,
+            "txHash": "0x61024c127c99745a026bd5828356f05348dd335519c97d7f3ece8c32671a5737",
+            "user": {
+              "id": "0xf96faf4d52d940ab318c9c65e3121d1e2c7e124c"
+            }
+          }
+        ],
+        "repayHistory": [
+          {
+            "amount": "31857779432",
+            "id": "23588266:94:0x580d0d52f1a276c105b782996dae9d76a797d990a098e4b520d39eb6d2a889b9:224:42",
+            "timestamp": 1760593907,
+            "txHash": "0x580d0d52f1a276c105b782996dae9d76a797d990a098e4b520d39eb6d2a889b9",
+            "user": {
+              "id": "0x5e00d62b1e26384c7e810b5ab8322876c3273790"
+            }
+          },
+          {
+            "amount": "25286451888",
+            "id": "23588257:47:0x3a8f33d6a273357b99a4fae4571d6bac232568e670b9a90fa88f6cfbb1c4a6d8:148:42",
+            "timestamp": 1760593799,
+            "txHash": "0x3a8f33d6a273357b99a4fae4571d6bac232568e670b9a90fa88f6cfbb1c4a6d8",
+            "user": {
+              "id": "0x7ef4019f19b66b97beabd7632dde0aa560be7a7c"
+            }
+          },
+          {
+            "amount": "18",
+            "id": "23588257:44:0x4b7f103c089ff9bb3f10af8bff7f46d3c8dd43f3aa5e3ad0c18974e8b88466c4:104:31",
+            "timestamp": 1760593799,
+            "txHash": "0x4b7f103c089ff9bb3f10af8bff7f46d3c8dd43f3aa5e3ad0c18974e8b88466c4",
+            "user": {
+              "id": "0xa118b48224c34ec5638c96de46b75aab0aaed0a0"
+            }
+          },
+          {
+            "amount": "1090000000",
+            "id": "23588055:61:0x4bbb111af056a91bdfbd653511dae7aee93e0a9e22052589cb74c7eb9f955948:145:4",
+            "timestamp": 1760591363,
+            "txHash": "0x4bbb111af056a91bdfbd653511dae7aee93e0a9e22052589cb74c7eb9f955948",
+            "user": {
+              "id": "0xf727e7b5ca91bc86a36f50b5643147f61057eb42"
+            }
+          },
+          {
+            "amount": "355179272331",
+            "id": "23587951:38:0xc2a4aa2b8809dc3f52d13b183be7be5dbc10b677f84488b25235fd8c3443aa94:23:4",
+            "timestamp": 1760590115,
+            "txHash": "0xc2a4aa2b8809dc3f52d13b183be7be5dbc10b677f84488b25235fd8c3443aa94",
+            "user": {
+              "id": "0xdf59ab0bc4e175667b6e2bd77fdc585d088b5a2e"
+            }
+          }
+        ],
+        "reserveFactor": "1000",
+        "reserveLiquidationBonus": "10450",
+        "reserveLiquidationThreshold": "7800",
+        "stableBorrowRate": "0",
+        "stableBorrowRateEnabled": false,
+        "stableRateSlope1": "0",
+        "stableRateSlope2": "0",
+        "symbol": "USDT",
+        "totalCurrentVariableDebt": "4848606489964754",
+        "totalLiquidity": "5987706397461037",
+        "totalPrincipalStableDebt": "0",
+        "underlyingAsset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "usageAsCollateralEnabled": true,
+        "utilizationRate": "0.76200995",
+        "variableBorrowIndex": "1197347105800242285876133160",
+        "variableBorrowRate": "54461192240071524164110918",
+        "variableRateSlope1": "55000000000000000000000000",
+        "variableRateSlope2": "750000000000000000000000000"
+      }
+    ]
+  }
+}
